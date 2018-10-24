@@ -13,7 +13,7 @@ public class Author {
     private String lastName;
     @ManyToMany(mappedBy = "authors")
     private Set<Book> books = new HashSet<>();
-
+//Spring JPA comment test for commit to git
     public Author() {
     }
 
