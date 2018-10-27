@@ -1,4 +1,4 @@
-package com.springframework.spring5webapp;
+package com.springframework.spring5webapp.bootstrap;
 
 import com.springframework.spring5webapp.model.Author;
 import com.springframework.spring5webapp.model.Book;
